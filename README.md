@@ -1,35 +1,47 @@
-# Olá, Bem Vindos ao meu mundo! # 
+### Hi there 👋
 
-![Gif Do Gatinho](https://i.pinimg.com/originals/cd/f3/0b/cdf30b78e8754b1499f2de9d5a63a8fb.gif)
-
-
-### Sobre Mim:
-
-👽 Eu sou Aline Antunes! <br>
-⭐ Atualmente sou Analista Tecnico Educacional na DIO <br>
-📚 Sou Licenciada em Computação e estudo Sistemas para Internet<br>
-🎆 Amo animes, animais e o universo
+# Titulo 1
+## Titulo 2
+### Titulo 3
+#### Titulo 4
+##### Titulo 5
+###### Titulo 1
 
 
-### Stacks Tech 
+*italico* ou _italico_
 
-<div align="center">
-<img height="50" width="50" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-<img height="45" width="45" width="50" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
-<img height="45" width="45" alt="Java"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-<img height="45" width="45" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>         
+**Negrito** ou __negrito__
 
-</div>
+___negrito e italico___
 
-----------
-### Meus Cursos 
+- Lista 1
+- Lista 2
+  - Sublista
 
-| Curso | Link |
-| ----- | -----|
-|Introdução ao Js | [link do certificado](https://hermes.digitalinnovation.one/certificates/7E1AC420.pdf?_gl=1*do3ppl*_ga*NTA3NDkyNTg0LjE2OTk1NTg0MDg.*_ga_7GXMH3CQ72*MTcwNzIzNTg5NC4yOS4xLjE3MDcyMzU5NjMuNTIuMC4w)|
-|Introdução à IA | [link do certificado](https://hermes.digitalinnovation.one/certificates/6BF0A9DB.pdf?_gl=1*10hu6t7*_ga*NTA3NDkyNTg0LjE2OTk1NTg0MDg.*_ga_7GXMH3CQ72*MTcwNzIzNTg5NC4yOS4xLjE3MDcyMzYwMjkuNjAuMC4w)|
+1. Lista 1
+2. Lista 2
+   1. Sublista
+
+[Texto da imagem](https://img.freepik.com/fotos-premium/por-do-sol-no-mar_69709-957.jpg)
 
 
+![Texto da imagem](https://img.freepik.com/fotos-premium/por-do-sol-no-mar_69709-957.jpg)
+
+`system.out.println();`
+
+```system.out.println(); system.out.println();system.out.println();system.out.println();system.out.println();system.out.println(); ```
+
+> Texto da Citações 
+---------------------------
+
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|------------ | ------------|
+| texto1      | texto2      |
+| texto 3     | texto 4     |
+
+[X] Tarefa 1 <br>
+[ ] Tarefa 2
 
 
 <!--
