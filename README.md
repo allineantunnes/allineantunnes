@@ -1,18 +1,11 @@
 ### Hi there 👋
 
 
-*italico* ou _italico_
-
-**Negrito** ou __negrito__
-
-___negrito e italico___
-
-- Lista 1
-- Lista 2
-  - Sublista
-
-
 <!--
+https://devicon.dev/
+
+https://gist.github.com/rxaviers/7360908
+
 **allineantunnes/allineantunnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
