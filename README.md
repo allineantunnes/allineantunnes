@@ -1,47 +1,38 @@
-### Hi there 👋
-
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 1
+## Sejam Bem-Vindos, ao meu Mundo 🌎
 
 
-*italico* ou _italico_
+![Gif do gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 
-**Negrito** ou __negrito__
+### Sobre Mim:
+👽 Me chamo Aline Antunes!
+<br>
+⭐ Atualmente sou Analista Tecnico Educacional
+<br>
+⭐ Sou Licenciada em Computação e estudo sistemas para internet
+<br>
+⭐ Amo os animais, ver animes, senhor dos anéis e estudar física e sobre o universo. 
 
-___negrito e italico___
+----
+### Minhas Tecnologias:
 
-- Lista 1
-- Lista 2
-  - Sublista
+<div align="center">
 
-1. Lista 1
-2. Lista 2
-   1. Sublista
+<img alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px">
+<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80px">
+<img alt="Angular"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="80px">
 
-[Texto da imagem](https://img.freepik.com/fotos-premium/por-do-sol-no-mar_69709-957.jpg)
-
-
-![Texto da imagem](https://img.freepik.com/fotos-premium/por-do-sol-no-mar_69709-957.jpg)
-
-`system.out.println();`
-
-```system.out.println(); system.out.println();system.out.println();system.out.println();system.out.println();system.out.println(); ```
-
-> Texto da Citações 
----------------------------
+</div>
 
 
-| Cabeçalho 1 | Cabeçalho 2 |
-|------------ | ------------|
-| texto1      | texto2      |
-| texto 3     | texto 4     |
 
-[X] Tarefa 1 <br>
-[ ] Tarefa 2
+
+
+
+
+
+
+
+
 
 
 <!--
