@@ -1,8 +1,9 @@
-## Olá, Sejam Bem-Vindos!
+<div align="center"> Olá, Sejam Bem-Vindos!
+</div>
 
 ![Gif Do Gatinho](https://i.pinimg.com/originals/cd/f3/0b/cdf30b78e8754b1499f2de9d5a63a8fb.gif)
 
--------
+
 ### Sobre Mim:
 
 👽 Eu sou Aline Antunes! <br>
@@ -10,7 +11,7 @@
 📚 Sou Licenciada em Computação e estudo Sistemas para Internet<br>
 🎆 Amo animes, animais e o universo
 
-----
+
 ### Stacks Tech 
 
 <div align="center">
