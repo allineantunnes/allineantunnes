@@ -13,12 +13,19 @@
 
 ### Minhas Tecnologias
 
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px">
 
-<img >
+-----
 
+| Cursos | Certificados |
+|-------- | ------------ |
+|Visão Computacional | [Certificado](https://www.dio.me/certificate/7E1AC420/share) 
+|Visão Computacional | [Certificado](https://www.dio.me/certificate/7E1AC420/share)
 
-
+-----
+![Aline Antunes GitHub stats](https://github-readme-stats.vercel.app/api?username=allineantunnes&show_icons=true&theme=dracula)
 
 
 <!--
