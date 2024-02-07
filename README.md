@@ -1,41 +1,24 @@
-### Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo!
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 1
+![Gif do Gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
+---------
 
-*italico* ou _italico_
+👽 Olá, me chamo Aline Antunes!
 
-**Negrito** ou __negrito__
+💬 Sou Analista Tecnico Educacional, Licenciada em Computação e estudante de Sistemas para Intenet.
 
-___negrito e italico___
+📫 [Acesse o meu Linkedin](https://br.linkedin.com/in/aline-antunes-a908a6174)
 
-- Lista 1
-- Lista 2
-  - Sublista
+------
 
-1. Lista 1
-2. Lista 2
-   1. Sublista
+### Minhas Tecnologias
+
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+
+<img >
 
 
-`system.out.println();`
 
-```system.out.println(); system.out.println();system.out.println();system.out.println();system.out.println();system.out.println(); ```
-
-> Texto da Citações 
-
-
-| Cabeçalho 1 | Cabeçalho 2 |
-|------------ | ------------|
-| texto1      | texto2      |
-| texto 3     | texto 4     |
-
-[X] Tarefa 1 <br>
-[ ] Tarefa 2
 
 
 <!--
